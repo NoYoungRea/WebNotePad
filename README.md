@@ -41,5 +41,6 @@
 
 ![KakaoTalk_20200518_204843870_01](https://user-images.githubusercontent.com/49268465/82210138-6d155b80-9949-11ea-943d-d512e8765aa2.jpg)
  
+# 아래는 시연 영상입니다.(누르면 이동)
 [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/QuPwOkngWXM)
 
