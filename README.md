@@ -27,8 +27,6 @@
 3.  그룹 관리 서비스
 4.  메시지 서비스 
 
-<iframe width="640" height="360" src="https://youtu.be/QuPwOkngWXM" frameborder="0" gesture="media" allowfullscreen=""></iframe>
-
 ![KakaoTalk_20200518_204843870_07](https://user-images.githubusercontent.com/49268465/82209988-33dceb80-9949-11ea-9853-77540b9690c2.jpg)
 
 ![KakaoTalk_20200518_204843870_05](https://user-images.githubusercontent.com/49268465/82210011-3a6b6300-9949-11ea-807c-10d41b9e383f.jpg)
@@ -43,5 +41,5 @@
 
 ![KakaoTalk_20200518_204843870_01](https://user-images.githubusercontent.com/49268465/82210138-6d155b80-9949-11ea-943d-d512e8765aa2.jpg)
  
-
+[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/QuPwOkngWXM)
 
